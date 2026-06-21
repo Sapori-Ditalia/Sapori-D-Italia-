@@ -1,0 +1,8 @@
+{
+  "name": "Sapori dItalia",
+  "description": "Un app raffinata per scoprire ed esplorare le autentiche ricette della tradizione regionale italiana organizzate per Nord Centro e Sud Italia con ingredienti procedimenti e salvataggio dei preferiti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
